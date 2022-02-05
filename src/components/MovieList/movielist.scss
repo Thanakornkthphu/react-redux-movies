@@ -1,0 +1,21 @@
+.movie-list {
+    width: 100%;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+
+    .movie-item {
+        // margin-left: 50px;
+        width: 95%;
+        
+        .movie-card {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    
+        .series-card {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+}

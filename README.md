@@ -1,3 +1,11 @@
+Skills Project
+- React
+- React-router-dom
+- Redux toolkit
+- Redux async thunk
+- Axios fecthing API
+- Scss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

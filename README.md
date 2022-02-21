@@ -1,10 +1,13 @@
-Skills Project
-- React
-- React-router-dom
-- Redux toolkit
-- Redux async thunk
-- Axios fecthing API
-- Scss
+Learning about multipage and fetching API with redux async thunk, redux toolkit, react-router-dom
+
+  Skills Project
+  - React
+  - React-router-dom
+  - Redux toolkit
+  - Redux async thunk
+  - Axios fecthing API
+  - Scss
+________________________________________________________________________________________________________________________________
 
 # Getting Started with Create React App
 
